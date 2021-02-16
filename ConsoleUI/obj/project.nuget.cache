@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "63+F/+va1Az+FwxIkjkRqS6ommdyrY/lMAW73b6jvPPz1GVADX+OjapGjZ9f05uF2al7tS5s6odccs0eFTJhKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\GymProject\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
